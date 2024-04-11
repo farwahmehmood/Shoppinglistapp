@@ -1,4 +1,4 @@
-This is a popular shopping list. Things i used in this app are written below. 
+This is a popular shopping list app. Things i used in this app are written below. 
 
 1. MVVM archittecture design pattern.
 2. Room Persistence Library.
